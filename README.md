@@ -1,4 +1,5 @@
 # SquawkR - Your ultimate one page app through NYC Real Estate 
+<img src="http://i67.tinypic.com/2rqzzut.png"/>
 
 # Technologies
 * Google API
